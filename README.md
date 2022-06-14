@@ -1,23 +1,15 @@
 - 👋 Hi, I’m Shoaib Qureshi
 - 👀 I’m interested in ... Recruiting
-- 📫 How to reach me ...+17035209522
+- 📫 How to reach me ...
 https://www.linkedin.com/in/shoaib310/
 <!---
 shoaib-310/shoaib-310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-URGENT HIRING
-DEVELOPERS ! Don’t miss this limited amazing opportunity! Apply BEFORE 10th April for a chance at a life-changing job with Silicon Valley clients.
-Experience with at least one of the following: PostgreSQL, DynamoDB, Redis, Mongo,RabbitMQ, Kafka.
+Calling all talented developers AROUND THE GLOBE!
 
-Developers who can work with the MERN stack. The positions we have are as follows: (All of the positions are fully remote).
+Remotebase is Hiring Software Engineers!
+These are well paid, full time remote developer job opportunities. If you're looking to work with innovative Silicon Valley clients, become a part of a top 1% global developer team from the comfort of your home, then apply NOW : https://lnkd.in/dytMsbFz
+..take an online technical assessment (HackerRank*) and get an offer within a WEEK!
 
-* React Developer 
-* Node Developer 
-* ReactNative Developer 
-* Fullstack JavaScript Developer 
-* Software Engineer React Native 
-
-1) Minimum of 2 years of professional experience.
-2) Candidate must apply and complete the problem-solving test (HackerRank) 
-https://www.linkedin.com/in/shoaib310/
+* #Devops #Java #React #Node #Android #Golang #Django #VueJS #AWS #Angular #Python #Rails
